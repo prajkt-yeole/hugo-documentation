@@ -9,7 +9,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600;700&display=swap" rel="stylesheet"> 
     {{ $style := resources.Get "scss/template.scss" | toCSS}}
     {{ $bscss := resources.Get "css/bootstrap.min.css" | toCSS}}
-    {{ $allcss := slice $bscss $style | resources.Concat "css/vendor.css" | minify | fingerprint }}
+    {{ $allcss := slice $bscss $style | resources.Concat "/css/vendor.css" | minify | fingerprint }}
     <script src="https://unpkg.com/phosphor-icons"></script>
-    <link rel="stylesheet" href="{{ $allcss.Permalink | absURL }}">
+    <link rel="stylesheet" href="{{ $allcss.Permalink }}">
 </head>
