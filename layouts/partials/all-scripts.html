@@ -1,0 +1,8 @@
+{{ $bsjs := resources.Get "js/bootstrap.min.js" }}
+{{ $gumshoe := resources.Get "js/gumshoe.js" }}
+{{ $clipboard := resources.Get "js/clipboard.min.js" }}
+{{ $script := resources.Get "js/script.js" }}
+
+{{ $alljs := slice $bsjs $gumshoe $clipboard $script | resources.Concat "/css/all_scripts.js" | minify | fingerprint }}
+
+<script defer src="{{ $alljs.Permalink }}"></script>

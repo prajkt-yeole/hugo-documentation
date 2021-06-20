@@ -1,0 +1,54 @@
+/*/////////////////////////////////
+//////////   INNER PAGE
+////////////////////////////////*/
+
+.section-content-holder {padding: 60px 0;
+    .section-title {font-size: 50px; font-weight: var(--font-bold); margin: 0;}
+    .section-icon {font-size: 70px; color: var(--heading-color);}
+}
+
+.md-file-content {
+    h1,h2,h3,h4,h5,h6 {font-weight: var(--font-bold); color: var(--heading-color);}
+    h3 {font-weight: var(--font-regular);}
+    p {line-height: 200%;}
+    &.emoji-cheat-sheet p{ font-size: 30px; text-align: center;}
+    h2,h3 { border-bottom: 1px solid #c3c3c3; padding-bottom: 8px;}
+    ol li p, ul li p {margin-bottom: 0;}
+    h2:first-child {margin-top: 0;}
+    h2, h3, h4 {margin-top: 50px;}
+}
+
+.table-of-content {position: sticky; top: 20px; padding: 0 60px;
+    ul {list-style: none; padding: 0;
+        li {margin-bottom: 20px; position: relative; transition: 300ms ease; line-height: 140%;
+            &:before {content: ''; display: block; height: 28px; width: 6px; background-color: #ccc; position: absolute; top: 0; left: -15px;}
+            &.has-children {
+                &:after {content: '\f1ad'; font-family: 'Phosphor'; position: absolute; top: 0; right: 0; font-size: 22px; transition: 300ms ease;}
+                &.active, &.active-parent {
+                    &:after {transform: rotate(90deg);}
+                }
+            }
+            &.active {
+                &:before {background-color: var(--secondary-theme-color);}
+                &:after { color: var(--secondary-theme-color);}
+                &> a {color: var(--secondary-theme-color);}
+            }
+            &.active, &.active-parent {
+                ul {max-height: 100vh; margin-top: 20px;
+                    li { margin-bottom: 14px;}
+                }
+            }
+            a {color: var(--heading-color); text-decoration: none; font-size: 17px;}
+            ul {padding-left: 30px;  max-height: 0; overflow: hidden; transition: 300ms ease;}
+        }
+    }
+}
+
+.next-prev-page-holder {display: flex; justify-content: center;
+    .prev-page {position: relative; display: block; margin: 20px;
+        &:before {content: '\f3ef'; font-family: 'Phosphor'; position: absolute; left: -28px; font-size: 22px; top: 1px;}
+    }
+    .next-page {position: relative; display: block; margin: 20px;
+        &:before {content: '\f3f8'; font-family: 'Phosphor'; position: absolute; right: -28px; font-size: 22px; top: 1px;}
+    }
+}

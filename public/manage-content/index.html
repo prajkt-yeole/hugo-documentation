@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Manage Content | Xenon</title><meta name="title" content="Xenon Documentation">
+<meta name="description" content="HUGO based Documentation template. Write your product&#39;s documentation or create a knowledge base and deploy on your server.">
+<meta name="keywords" content="hugo , docs">
+<meta name="robots" content="index, follow">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="language" content="English">
+<meta name="revisit-after" content="5 days">
+<meta name="author" content="Red Sparrow Themes">
+
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600;700&display=swap" rel="stylesheet"> 
+    
+    
+    
+    <script src="https://unpkg.com/phosphor-icons"></script>
+    <link rel="stylesheet" href="/css/vendor.min.d6588664a663a71dd643eda8f04f643c56ebec20f5ad51389cc9724d6e756009.css">
+</head><body class=""><div id="banner-small">
+    <div class="container">
+        <div class="top-nav">
+            <div class="row">
+                <div class="col">
+                    <a class="site-title" href="">Xenon <span class="sub-title">Docs</span></a>
+                </div>
+                <div class="col-auto"></div>
+            </div>
+        </div>
+    </div>
+    <p class="site-description-inner">How can we help you ?</p>
+    <form action="">
+        <div class="banner-search-holder">
+            <input type="text" class="main-banner-search" placeholder="Search for answers">
+            <img src="/images/search-icon.svg" alt="search-icon-main-banner" class="banner-search-icon">
+        </div>
+    </form>
+    <button aria-label="Dark Mode Toggle" class="dark-mode-toggle"><i class="ph-sun"></i> <i class="ph-moon"></i></button>
+</div><div class="container">
+        <div class="section-content-holder">
+            <div class="row align-items-center justify-content-center">
+                <div class="col-auto">
+                    
+                        <i class="section-icon ph-translate-thin"></i>
+                    
+                </div>
+                <div class="col-auto">
+                    <h1 class="section-title">Manage Content</h1>
+                </div>
+            </div>
+            <div class="next-prev-page-holder">
+                 
+                    <div>
+                        <a class="prev-page" href="/configuration/"> Configuration</a>
+                    </div>
+                
+                
+                    <div>
+                        <a class="next-page" href="/deployment/"> Deployment</a> 
+                    </div>
+                
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-7">
+                <div class="md-file-content ">
+                    <h2 id="add-content-">Add Content 🍀</h2>
+<p>You can write content in markdown as well as with HTML tags. All the cards you see on home page under the heading documentation are separated pages.</p>
+<h3 id="pages-">Pages 🎒</h3>
+<p>You can create a new card either with cli or manually.</p>
+<p>You can create a new page with -</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-go" data-lang="go"><span style="color:#a6e22e">hugo</span> <span style="color:#a6e22e">new</span> <span style="color:#a6e22e">page</span> <span style="color:#a6e22e">getting</span><span style="color:#f92672">-</span><span style="color:#a6e22e">started</span><span style="color:#f92672">/</span><span style="color:#a6e22e">index</span>.<span style="color:#a6e22e">md</span>
+</code></pre></div>
+<p>Once the new page is created you will find below contents in the frontmatter of the md file.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-yml" data-lang="yml"><span style="color:#f92672">title</span>: <span style="color:#e6db74">&#34;&#34;</span>           <span style="color:#ae81ff">// Page title</span>
+<span style="color:#f92672">date</span>:               <span style="color:#ae81ff">// Auto generated</span>
+<span style="color:#f92672">draft</span>: <span style="color:#66d9ef">true</span>         <span style="color:#ae81ff">// If you need to keep it draft</span>
+<span style="color:#f92672">Description</span>: <span style="color:#e6db74">&#34;&#34;</span>     <span style="color:#ae81ff">// Will show up on home page cards</span>
+<span style="color:#f92672">icon</span>: <span style="color:#e6db74">&#34;&#34;</span>            <span style="color:#ae81ff">// Refer Phosphor Icons </span>
+<span style="color:#f92672">weight</span>:             <span style="color:#ae81ff">// Sequencing of the cards</span>
+<span style="color:#f92672">pageClass</span>: <span style="color:#e6db74">&#34;&#34;</span>       <span style="color:#ae81ff">// (Optional) if you want to add any page level class</span></code></pre></div>
+<p>Date will be auto-generated with your system time.</p>
+<p>Incase you miss the <code>icon</code> field, a default cog icon will appear on the cards which can be changed from <code>category-cards-home.md</code>.</p>
+<h2 id="table-of-contents-">Table of Contents 🎄</h2>
+<p>Table of contents will be auto generated in the markdown file. It will have child nodes up to 1 level only.</p>
+<p>Use following syntax -
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">## Primary Heading
+### Child Heading
+### Child Heading 2
+### Child Heading 3
+
+## Primary Heading 2</code></pre></div></p>
+<p>the above code will have output as -</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">├── Primary Heading 
+    ├── Child Heading
+    ├── Child Heading 2
+    ├── Child Heading 3
+├── Primary Heading 2</code></pre></div>
+<p>Concluding, you have to use <code>##</code> for main heading and <code>###</code> for child heading.</p>
+<h2 id="markdown-syntax-">Markdown Syntax ⏰</h2>
+<p>You can use Markdown syntax along with HTML tags in md file. You can refer to <a href="/markdown-syntax">markdown cheatsheet here</a>.</p>
+<h2 id="syntax-highlighter-">Syntax Highlighter 🎈</h2>
+<p>HUGO supports ~193 languages highlights. You can check the entire list of languages from <a href="https://gohugo.io/content-management/syntax-highlighting/#list-of-chroma-highlighting-languages">here</a>.</p>
+<p>View entire HUGO Syntax Highlight documentation form <a href="https://gohugo.io/content-management/syntax-highlighting/"> here</a>.</p>
+<h2 id="emoji-support-">Emoji Support ⚽</h2>
+<p>Emoji runs a passed string through the Emoji emoticons processor.</p>
+<p><a href="https://www.webfx.com/tools/emoji-cheat-sheet/">Full Cheatsheet</a>.</p>
+<p>Visit <a href="/emoji-cheat-sheet">Emoji Page</a> for all emojis in our app.</p>
+<h2 id="icons-">Icons 💎</h2>
+<p>Xenon Docs uses <a href="https://phosphoricons.com/">Phosphor Icons</a> . It has 4,098 icons with 5 font weights.</p>
+<p>Refer their official documentation for all necessary codes required.</p>
+<p>Visit <a href="/phosphor-icons">Phosphor Icons Page</a> for all icons in our app.</p>
+<h2 id="faqs-">FAQs 🎀</h2>
+<p>The frequently asked questions data on Home page are generated form JSON which can be found in <code>/data</code> folder.</p>
+<p>Currently we use 2 keys as per our requirement but you can modify as per your needs.</p>
+<p>The structure of <code>FAQs</code> can be found in <code>/partials</code> folder named <code>faqs-home.html</code>.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-json" data-lang="json">[
+    {
+        <span style="color:#f92672">&#34;question&#34;</span>: <span style="color:#e6db74">&#34;&#34;</span>,
+        <span style="color:#f92672">&#34;answer&#34;</span>: <span style="color:#e6db74">&#34;&#34;</span>
+    }
+]</code></pre></div>
+<h2 id="team-">Team 🍜</h2>
+<p>Our team section on home page also gets its data from JSOn file under <code>/data</code> folder.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-json" data-lang="json">[
+    {
+        <span style="color:#f92672">&#34;name&#34;</span>: <span style="color:#e6db74">&#34;&#34;</span>,
+        <span style="color:#f92672">&#34;designation&#34;</span>: <span style="color:#e6db74">&#34;&#34;</span>,
+        <span style="color:#f92672">&#34;imageName&#34;</span>: <span style="color:#e6db74">&#34;&#34;</span>
+    }
+]</code></pre></div>
+<p>Currently we are capturing 3 values, but you can modify as per your needs.</p>
+<p>In the current structure our team images are placed in <code>/static/images/out-team</code>, you can change but also keep in mind to update it in <code>our-team.html</code> file.</p>
+<p>Incase you don&rsquo;t put the  <code>imageName</code> field, a default image will appear.</p>
+
+                </div>
+            </div>
+            <div class="col-md-4 offset-md-1 d-none d-sm-none d-lg-block">
+                <div class="table-of-content">
+                    <nav id="TableOfContents">
+  <ul>
+    <li><a href="#add-content-">Add Content 🍀</a>
+      <ul>
+        <li><a href="#pages-">Pages 🎒</a></li>
+      </ul>
+    </li>
+    <li><a href="#table-of-contents-">Table of Contents 🎄</a></li>
+    <li><a href="#markdown-syntax-">Markdown Syntax ⏰</a></li>
+    <li><a href="#syntax-highlighter-">Syntax Highlighter 🎈</a></li>
+    <li><a href="#emoji-support-">Emoji Support ⚽</a></li>
+    <li><a href="#icons-">Icons 💎</a></li>
+    <li><a href="#faqs-">FAQs 🎀</a></li>
+    <li><a href="#team-">Team 🍜</a></li>
+  </ul>
+</nav>
+                </div>
+            </div>
+        </div>
+    </div>
+<footer>
+    <h1 class="site-title">Xenon <span class="sub-title">Docs</span></h1>
+    <p class="cr-text">Copyright © 2021. - <a rel="noopener" href="https://redsparrowthemes.com" target="_blank">Red Sparrow Themes</a>. All Rights Reserved</p>
+</footer><button aria-label="Scroll to Top" id="scroll-to-top"><i class="ph-caret-up-light"></i></button>
+        
+    </body>
+
+
+
+
+
+
+<script defer src="/css/all_scripts.min.fe7958b2aabeabd835a21e3b3b97e255676e302b4bbd8a5007c4070771593e4d.js"></script>
+</html>

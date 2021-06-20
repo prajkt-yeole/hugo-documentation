@@ -1,0 +1,20 @@
+<div id="banner-small">
+    <div class="container">
+        <div class="top-nav">
+            <div class="row">
+                <div class="col">
+                    <a class="site-title" href="{{ .Site.BaseURL }}">{{ .Site.Title }} <span class="sub-title">Docs</span></a>
+                </div>
+                <div class="col-auto"></div>
+            </div>
+        </div>
+    </div>
+    <p class="site-description-inner">How can we help you ?</p>
+    <form action="">
+        <div class="banner-search-holder">
+            <input type="text" class="main-banner-search" placeholder="Search for answers">
+            <img src="{{ .Site.BaseURL }}/images/search-icon.svg" alt="search-icon-main-banner" class="banner-search-icon">
+        </div>
+    </form>
+    <button aria-label="Dark Mode Toggle" class="dark-mode-toggle"><i class="ph-sun"></i> <i class="ph-moon"></i></button>
+</div>

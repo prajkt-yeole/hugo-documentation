@@ -1,0 +1,25 @@
+{{ $baseUrl := .Site.BaseURL }}
+<div id="our-team">
+    <h1 class="section-title">Our Team</h1>
+    <div class="container">
+        <div class="row">
+            {{ range .Site.Data.ourTeam }}        
+            <div class="col-lg-3">
+                <div class="team-card">
+                    <div class="image-holder">
+                        {{ if (eq (.imageName | len) 0)}}
+                            <img src="{{ $baseUrl }}/images/our-team/dummy-profile-pic.jpg" alt="" class="team-user-dp">
+                        {{ else }}
+                            <img src="{{ $baseUrl }}/images/our-team/{{ .imageName }}" alt="" class="team-user-dp">
+                        {{ end }}
+                    </div>
+                    <div class="team-user-details">
+                        <h2 class="team-user-text">{{ .name }}</h2>
+                        <p class="team-user-subtext">{{ .designation }}</p>
+                    </div>
+                </div>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</div>

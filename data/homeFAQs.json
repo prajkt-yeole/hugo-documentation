@@ -1,0 +1,26 @@
+[
+    {
+        "question": "What is HUGO ?",
+        "answer": "The world’s fastest framework for building websites. Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again."
+    },
+    {
+        "question": "What is Xenon Docs ?",
+        "answer": "It is a template build on HUGO static site generator. It uses Bootstrap 5 Beta 1 as the base framework and uses SCSS. You can create documentation or Knowledge Base for your software and deploy. It's easy and fast."
+    },
+    {
+        "question": "How can i update the template to newer version ?",
+        "answer": "You just have to replace the content folder and rest remains the same. Unless you have made any changes in the structure."
+    },
+    {
+        "question": "Which browsers are supported ?",
+        "answer": "We support all modern browsers. Modern browsers include Edge, Google Chrome, Mozilla Firefox & Safari."
+    },
+    {
+        "question": "Will there be any future updates ?",
+        "answer": "Oh Yes !! We have plans for releasing future updates for Xenon Docs. Along with we will be also updating the plugins used to their newer versions."
+    },
+    {
+        "question": "Can i customize as per my needs ?",
+        "answer": "Definitely, we have made the code and structure modular which will be easy for you to modify."
+    }
+]

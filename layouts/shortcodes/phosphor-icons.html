@@ -1,0 +1,13 @@
+{{ $data := .Get 0 }}
+<div class="row">
+    {{ range .Site.Data.phosphorIcons }}
+        <div class="col-2">
+            <div class="icon-set-holder">
+                <i class="{{ .icon }}{{ $data}}"></i>
+                <p onclick="showToast()" class="icon-name" data-clipboard-text="{{ .icon }}-{{$data}}">{{ .icon }}</p>
+            </div>
+        </div> 
+    {{ end}}
+</div>
+
+<div clas id="snackbar">Copied To Clipboard</div>

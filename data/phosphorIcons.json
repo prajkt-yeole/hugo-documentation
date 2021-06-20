@@ -1,0 +1,2722 @@
+[
+    {
+        "icon": "ph-activity",
+        "displayName": "hello world"
+    },
+    {
+        "icon": "ph-airplane",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-airplane-in-flight",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-airplane-landing",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-airplane-takeoff",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-airplay",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-alarm",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-align-bottom",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-align-center-horizontal",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-align-center-vertical",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-align-left",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-align-right",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-align-top",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-anchor",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-android-logo",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-aperture",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-apple-logo",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-archive-box",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-archive",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-archive-tray",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-arc-left",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-arc-right",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-bend-double-up-left",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-bend-double-up-right",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-bend-down-left",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-bend-down-right",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-bend-left-down",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-bend-left-up",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-bend-right-down",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-bend-right-up",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-bend-up-left",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-bend-up-right",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-circle-down",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-circle-down-left",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-circle-down-right",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-circle-left",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-circle-right",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-circle-up",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-circle-up-left",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-circle-up-right",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-clockwise",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-counter-clockwise",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-down",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-down-left",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-down-right",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-elbow-down-left",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-elbow-down-right",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-elbow-left-down",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-elbow-left",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-elbow-left-up",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-elbow-right-down",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-elbow-right",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-elbow-right-up",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-elbow-up-left",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-elbow-up-right",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-fat-down",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-fat-left",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-fat-line-down",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-fat-line-left",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-fat-line-right",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-fat-lines-down",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-fat-lines-left",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-fat-lines-right",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-fat-lines-up",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-fat-line-up",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-fat-right",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-fat-up",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-left",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-line-down",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-line-down-left",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-line-down-right",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-line-left",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-line-right",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-line-up",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-line-up-left",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-line-up-right",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-right",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrows-clockwise",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrows-counter-clockwise",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrows-down-up",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrows-in-cardinal",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrows-in",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrows-in-line-horizontal",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrows-in-line-vertical",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrows-in-simple",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrows-left-right",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrows-out-cardinal",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrows-out",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrows-out-line-horizontal",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrows-out-line-vertical",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrows-out-simple",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-square-down",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-square-down-left",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-square-down-right",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-square-left",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-square-right",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-square-up",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-square-up-left",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-square-up-right",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-u-down-left",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-u-down-right",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-u-left-down",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-u-left-up",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-up",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-up-left",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-up-right",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-u-right-down",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-u-right-up",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-u-up-left",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-arrow-u-up-right",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-article",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-asterisk",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-at",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-backspace",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-bag",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-bandaids",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-bank",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-barbell",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-barcode",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-battery-charging",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-battery-charging-vertical",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-battery-empty",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-battery-full",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-battery-high",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-battery-low",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-battery-medium",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-battery-warning",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-battery-warning-vertical",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-bed",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-bell",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-bell-simple",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-bell-simple-slash",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-bell-slash",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-bicycle",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-bluetooth-connected",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-bluetooth",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-bluetooth-slash",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-bluetooth-x",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-book-bookmark",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-book",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-bookmark",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-bookmarks",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-bookmark-simple",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-book-open",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-briefcase",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-briefcase-simple",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-broadcast",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-browser",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-browsers",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-browsers-simple",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-buildings",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-bus",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-calculator",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-calendar-blank",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-calendar",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-calendar-x",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-camera",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-camera-slash",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-caret-circle-double-down",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-caret-circle-double-left",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-caret-circle-double-right",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-caret-circle-double-up",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-caret-circle-down",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-caret-circle-left",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-caret-circle-right",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-caret-circle-up",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-caret-double-down",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-caret-double-left",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-caret-double-right",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-caret-double-up",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-caret-down",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-caret-left",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-caret-right",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-caret-up",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-car",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-car-simple",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-cell-signal-full",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-cell-signal-high",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-cell-signal-low",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-cell-signal-medium",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-cell-signal-none",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-cell-signal-slash",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-cell-signal-x",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-chart-bar",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-chart-bar-horizontal",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-chart-line",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-chart-line-up",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-chart-pie",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-chart-pie-slice",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-chat-centered-dots",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-chat-centered",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-chat-centered-text",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-chat-circle-dots",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-chat-circle",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-chat-circle-text",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-chat-dots",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-chat",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-chats-circle",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-chats",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-chats-teardrop",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-chat-teardrop-dots",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-chat-teardrop",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-chat-teardrop-text",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-chat-text",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-check-circle",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-check",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-checks",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-check-square",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-check-square-offset",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-circle",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-circle-half",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-circle-half-tilt",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-circles-four",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-circles-three",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-circles-three-plus",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-clipboard",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-clipboard-text",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-clock-afternoon",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-clock-clockwise",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-clock-counter-clockwise",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-clock",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-closed-captioning",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-cloud-arrow-down",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-cloud-arrow-up",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-cloud-check",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-cloud",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-cloud-fog",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-cloud-lightning",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-cloud-moon",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-cloud-rain",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-cloud-slash",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-cloud-snow",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-cloud-sun",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-club",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-code",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-code-simple",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-coffee",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-columns",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-command",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-compass",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-computer-tower",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-copy",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-copyright",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-copy-simple",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-corners-in",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-corners-out",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-credit-card",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-crop",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-crosshair",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-crosshair-simple",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-cube",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-currency-circle-dollar",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-currency-cny",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-currency-dollar",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-currency-dollar-simple",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-currency-eur",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-currency-gbp",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-currency-inr",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-currency-jpy",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-currency-krw",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-currency-rub",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-cursor",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-database",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-desktop",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-desktop-tower",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-device-mobile-camera",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-device-mobile",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-device-mobile-speaker",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-device-tablet-camera",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-device-tablet",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-device-tablet-speaker",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-diamond",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-dice-five",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-dice-four",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-dice-one",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-dice-six",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-dice-three",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-dice-two",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-disc",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-divide",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-dots-nine",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-dots-three-circle",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-dots-three-circle-vertical",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-dots-three",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-dots-three-outline",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-dots-three-outline-vertical",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-dots-three-vertical",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-download",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-download-simple",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-dribbble-logo",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-drop",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-drop-half",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-eject",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-envelope",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-envelope-open",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-envelope-simple",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-envelope-simple-open",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-equals",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-eraser",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-eye-closed",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-eyedropper",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-eye",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-eye-slash",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-facebook-logo",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-face-mask",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-faders",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-faders-horizontal",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-fast-forward-circle",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-figma-logo",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-file-arrow-down",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-file",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-file-minus",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-file-plus",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-file-search",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-file-text",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-file-x",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-fingerprint",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-fingerprint-simple",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-finn-the-human",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-fire",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-first-aid",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-first-aid-kit",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-flag",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-flashlight",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-floppy-disk",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-folder",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-folder-minus",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-folder-notch",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-folder-notch-minus",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-folder-notch-open",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-folder-notch-plus",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-folder-open",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-folder-plus",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-folders",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-folder-simple",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-folder-simple-minus",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-folder-simple-plus",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-fork-knife",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-framer-logo",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-funnel",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-funnel-simple",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-game-controller",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-gear",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-gear-six",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-gif",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-gift",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-git-branch",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-git-commit",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-git-diff",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-git-fork",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-github-logo",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-git-merge",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-git-pull-request",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-globe",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-globe-hemisphere-east",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-globe-hemisphere-west",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-globe-simple",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-globe-stand",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-google-logo",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-google-play-logo",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-grid-four",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-handbag",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-hand",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-hand-fist",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-hand-grabbing",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-hand-palm",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-hand-pointing",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-handshake",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-hand-waving",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-hard-drive",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-hard-drives",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-hash",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-hash-straight",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-headphones",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-headset",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-heartbeat",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-heart",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-heart-straight",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-hexagon",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-horse",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-hourglass",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-hourglass-high",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-hourglass-low",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-hourglass-medium",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-hourglass-simple",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-hourglass-simple-high",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-hourglass-simple-low",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-hourglass-simple-medium",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-house",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-house-line",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-house-simple",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-identification-card",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-image",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-image-square",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-info",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-instagram-logo",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-intersect",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-jeep",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-keyboard",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-key",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-laptop",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-leaf",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-lightbulb",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-lightning",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-lightning-slash",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-link-break",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-linkedin-logo",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-link",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-link-simple-break",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-link-simple",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-link-simple-horizontal-break",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-link-simple-horizontal",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-list-bullets",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-list-dashes",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-list",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-list-numbers",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-list-plus",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-lock",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-lock-key",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-lock-key-open",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-lock-laminated",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-lock-laminated-open",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-lock-open",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-lock-simple",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-lock-simple-open",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-magnifying-glass",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-magnifying-glass-minus",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-magnifying-glass-plus",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-map-pin",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-map-pin-line",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-map-trifold",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-martini",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-math-operations",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-medal",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-medium-logo",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-megaphone",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-microphone",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-microphone-slash",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-minus-circle",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-minus",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-money",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-monitor",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-monitor-play",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-moon",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-moon-stars",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-mouse",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-music-note",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-music-notes",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-music-note-simple",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-music-notes-simple",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-navigation-arrow",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-newspaper-clipping",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-newspaper",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-note-blank",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-notebook",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-note",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-note-pencil",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-number-circle-eight",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-number-circle-five",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-number-circle-four",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-number-circle-nine",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-number-circle-one",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-number-circle-seven",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-number-circle-six",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-number-circle-three",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-number-circle-two",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-number-circle-zero",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-number-eight",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-number-five",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-number-four",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-number-nine",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-number-one",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-number-seven",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-number-six",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-number-square-eight",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-number-square-five",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-number-square-four",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-number-square-nine",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-number-square-one",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-number-square-seven",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-number-square-six",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-number-square-three",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-number-square-two",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-number-square-zero",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-number-three",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-number-two",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-number-zero",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-nut",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-octagon",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-package",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-paint-brush-broad",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-paint-bucket",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-paperclip",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-paperclip-horizontal",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-paper-plane",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-paper-plane-right",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-paper-plane-tilt",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-path",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-pause-circle",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-pause",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-peace",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-pedestrian",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-pencil-circle",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-pencil",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-pencil-line",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-pencil-simple",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-pen",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-pen-nib",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-percent",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-phone-call",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-phone-disconnect",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-phone",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-phone-incoming",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-phone-outgoing",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-phone-slash",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-phone-x",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-phosphor-logo",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-play-circle",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-play",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-plus-circle",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-plus",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-plus-minus",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-poker-chip",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-power",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-printer",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-prohibit",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-prohibit-inset",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-push-pin",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-push-pin-slash",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-puzzle-piece",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-qr-code",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-question",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-radical",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-rainbow-cloud",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-rainbow",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-receipt",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-record",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-rectangle",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-reddit-logo",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-repeat",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-repeat-once",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-rewind-circle",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-rocket",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-rocket-launch",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-rows",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-rss",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-rss-simple",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-scissors",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-screencast",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-share",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-share-network",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-shield-check",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-shield-chevron",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-shield",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-shield-slash",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-shield-warning",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-shopping-bag",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-shopping-bag-open",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-shopping-cart",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-shopping-cart-simple",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-shuffle-angular",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-shuffle",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-shuffle-simple",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-sign-in",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-sign-out",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-sketch-logo",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-skip-back-circle",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-skip-back",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-skip-forward-circle",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-skip-forward",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-slack-logo",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-sliders",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-sliders-horizontal",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-smiley-blank",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-smiley",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-smiley-meh",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-smiley-nervous",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-smiley-sad",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-smiley-sticker",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-smiley-x-eyes",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-snowflake",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-sort-ascending",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-sort-descending",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-spade",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-speaker-high",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-speaker-low",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-speaker-none",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-speaker-simple-high",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-speaker-simple-low",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-speaker-simple-none",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-speaker-simple-slash",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-speaker-simple-x",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-speaker-slash",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-speaker-x",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-square",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-square-half",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-squares-four",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-stack",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-stack-simple",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-star",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-sticker",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-stop-circle",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-stop",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-storefront",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-suitcase",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-suitcase-simple",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-sun-dim",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-sun",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-sun-horizon",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-swatches",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-sword",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-table",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-tag",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-tag-simple",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-target",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-telegram-logo",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-terminal",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-text-align-center",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-text-align-justify",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-text-align-left",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-text-align-right",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-text-bolder",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-text-italic",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-text-strikethrough",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-text-t",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-text-underline",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-thermometer-cold",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-thermometer",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-thermometer-hot",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-thermometer-simple",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-thumbs-down",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-thumbs-up",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-ticket",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-timer",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-tote",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-train",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-train-regional",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-train-simple",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-translate",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-trash",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-trash-simple",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-tray",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-trend-down",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-trend-up",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-triangle",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-truck",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-twitch-logo",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-twitter-logo",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-upload",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-upload-simple",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-user-circle",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-user-circle-gear",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-user-circle-minus",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-user-circle-plus",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-user",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-user-gear",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-user-minus",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-user-plus",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-user-rectangle",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-users",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-user-square",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-vibrate",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-video-camera",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-video-camera-slash",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-voicemail",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-warning-circle",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-warning",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-warning-octagon",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-watch",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-whatsapp-logo",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-wheelchair",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-wifi-high",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-wifi-low",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-wifi-medium",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-wifi-none",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-wifi-slash",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-wifi-x",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-wind",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-wrench",
+        "displayName": ""
+    },
+    {
+        "icon": "ph-x-circle",
+        "displayName": ""
+    }
+]

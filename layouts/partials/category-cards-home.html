@@ -1,0 +1,25 @@
+<div id="category-cards-home">
+    <div class="container">
+        <h1 class="section-title">Documentation</h1>
+        <div class="row">
+            {{ range .Pages.ByWeight }}
+            <div class="col-lg-4">
+                <div class="category-card">
+                    <div class="icon-holder">
+                        {{ if (eq (.Params.icon | len) 0)}}
+                            <i class="ph-gear-six-thin"></i>
+                        {{ else }}
+                            <i class="{{ .Params.icon}}"></i>
+                        {{ end }}
+                    </div>
+                    <div class="content-holder">
+                        <h3 class="category-title">{{ .Title }}</h3>
+                        <p class="category-description">{{ .Description }}</p>
+                    </div>
+                    <a class="rounded-primary-btn" href="{{ .Permalink }}"><span class="reveal-icon"> Read More</span></a>
+                </div>
+            </div>
+            {{ end}}
+        </div>
+    </div>
+</div>

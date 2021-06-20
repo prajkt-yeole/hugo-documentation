@@ -1,0 +1,23 @@
+<div id="faqs-home">
+    <div class="container">
+        <h1 class="section-title">Frequently Asked Questions</h1>
+        <div class="accordion custom-accordion" id="accordionExample">
+            {{ range $index, $element := .Site.Data.homeFAQs }}         
+                <div class="accordion-item  custom-accordion-item">
+                    <h2 class="accordion-header" id="heading{{ add $index 1 }}">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse{{ add $index 1 }}" aria-expanded="false" aria-controls="collapse{{ add $index 1 }}">
+                            {{ $element.question}}
+                        </button>
+                    </h2>
+                    <div id="collapse{{ add $index 1 }}" class="accordion-collapse collapse" aria-labelledby="heading{{ add $index 1 }}" data-bs-parent="#accordionExample">
+                        <div class="accordion-body">
+                            {{ $element.answer}}
+                        </div>
+                    </div>
+                </div>
+            {{ end }}
+        </div>
+    </div>
+</div>
+
+

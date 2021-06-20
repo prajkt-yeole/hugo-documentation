@@ -1,0 +1,16 @@
+baseURL : ""
+languageCode : "en-us"
+title : "Xenon"
+disableKinds:
+  - taxonomy
+  - taxonomyTerm
+enableEmoji: true
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+params :
+  author : "Red Sparrow Themes"
+  siteDescription : "HUGO based Documentation template. Write your product's documentation or create a knowledge base and deploy on your server."
+  keywords: "hugo , docs"
+  color_theme: ""

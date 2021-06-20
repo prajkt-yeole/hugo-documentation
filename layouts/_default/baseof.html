@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+    {{- partial "header.html" . -}}
+    <body class="{{ .Site.Params.color_theme }}">
+        {{- block "main" . -}}{{- end -}}
+        {{- partial "footer.html" . -}}
+        <button aria-label="Scroll to Top" id="scroll-to-top"><i class="ph-caret-up-light"></i></button>
+        <!-- <a class="back-home" href="/"><i class="ph-house-line-thin"></i><span> Go Home</span></a> -->
+    </body>
+    
+    {{- partial "all-scripts.html" . -}}
+</html>

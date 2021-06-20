@@ -1,0 +1,33 @@
+/*/////////////////////////////////
+//////////   VARIABLES
+////////////////////////////////*/
+
+:root {
+    --body-background: #f2f2f2;
+    --heading-color: #333333;
+    --body-text-color : #646464;
+    --primary-theme-color : #564DC0;
+    --secondary-theme-color : #34BFA3;
+    --cards-bg-color: #fff;
+    --box-shadow-1 : 20px 37px 102px rgba(0,0,0,0.09);
+    --box-shadow-1-hover : 20px 37px 102px rgba(0,0,0,0.2);
+    
+    // Common variables 
+    --primary-font : 'Source Sans Pro', sans-serif;
+    --text-white-color : #fff;
+    --font-light : 300;
+    --font-regular : 400;
+    --font-semi-bold : 600;
+    --font-bold : 700;
+}
+
+body.dark-theme {
+    --body-background: #18191A;
+    --heading-color: #fff;
+    --body-text-color : rgba(255, 255, 255, 0.7);
+    --primary-theme-color : #2A2C2F;
+    --secondary-theme-color : #54D28F;
+    --cards-bg-color: #2A2C2F;
+    --box-shadow-1 : none;
+    --box-shadow-1-hover : none;
+}

@@ -1,0 +1,18 @@
+/*/////////////////////////////////
+//////////   HOME FAQs
+////////////////////////////////*/
+
+#faqs-home {margin: 80px 0;
+    .custom-accordion {width: 100%; margin: 0 auto;
+        &-item { margin-bottom: 30px; 
+            .accordion-button {border: none; background-color: var(--cards-bg-color); box-shadow: var(--box-shadow-1); transition: 300ms ease;padding: 20px; font-size: 18px; border-radius: 6px; color: var(--heading-color);
+                &:hover {box-shadow: var(--box-shadow-1-hover);}
+                // &:focus {color: var(--primary-theme-color;}
+                &:after {background-image: none; content: '\f1ab'; font-family: 'Phosphor';}
+                &:not(.collapsed) {color: var(--heading-color); border-radius: 6px 6px 0 0;}
+            }
+            .accordion-collapse {border: none; background-color: var(--cards-bg-color); position: relative; z-index: 1001; border-radius: 0 0 6px 6px;}
+        }
+    }
+}
+

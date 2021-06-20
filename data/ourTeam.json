@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Gail Forcewind",
+        "designation": "Lead UX Designer",
+        "imageName": "team1.jpg"
+    },
+    {
+        "name": "Jean Frapples",
+        "designation": "DevOps Engineer",
+        "imageName": "team2.jpg"
+    },
+    {
+        "name": "Walter Melon",
+        "designation": "Sr. Frontend Developer",
+        "imageName": "team3.jpg"
+    },
+    {
+        "name": "Rachel Bocker",
+        "designation": "Product Manager",
+        "imageName": "team4.jpg"
+    }
+]

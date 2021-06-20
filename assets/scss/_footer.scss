@@ -1,0 +1,11 @@
+/*/////////////////////////////////
+//////////   FOOTER
+////////////////////////////////*/
+footer {background-color: var(--primary-theme-color); margin-top: 160px; padding: 50px; text-align: center; transition: 300ms ease;
+    .site-title {color: var(--text-white-color); font-size: 50px;
+        .sub-title {color: var(--text-white-color); font-size: 20px;}
+    }
+    .cr-text {color: var(--text-white-color);
+        a {color: var(--text-white-color);}
+    }
+}

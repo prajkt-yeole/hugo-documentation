@@ -1,0 +1,43 @@
+{{ define "main" }}
+    {{- partial "banner-inner.html" . -}}
+    <div class="container">
+        <div class="section-content-holder">
+            <div class="row align-items-center justify-content-center">
+                <div class="col-auto">
+                    {{ if (eq (.Params.icon | len) 0)}}
+                        <i class="section-icon ph-gear-six-thin"></i>
+                    {{ else }}
+                        <i class="section-icon {{ .Params.icon}}"></i>
+                    {{ end }}
+                </div>
+                <div class="col-auto">
+                    <h1 class="section-title">{{.Title}}</h1>
+                </div>
+            </div>
+            <div class="next-prev-page-holder">
+                {{with .Site.Pages.ByWeight.Next . }} 
+                    <div>
+                        <a class="prev-page" href="{{.RelPermalink}}"> {{.Title}}</a>
+                    </div>
+                {{end}}
+                {{with .Site.Pages.ByWeight.Prev . }}
+                    <div>
+                        <a class="next-page" href="{{.RelPermalink}}"> {{.Title}}</a> 
+                    </div>
+                {{end}}
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-7">
+                <div class="md-file-content {{ .Params.pageClass }}">
+                    {{.Content}}
+                </div>
+            </div>
+            <div class="col-md-4 offset-md-1 d-none d-sm-none d-lg-block">
+                <div class="table-of-content">
+                    {{ .TableOfContents }}
+                </div>
+            </div>
+        </div>
+    </div>
+{{ end }}

@@ -1,0 +1,29 @@
+/*/////////////////////////////////
+//////////   BANNERS
+////////////////////////////////*/
+#banner-big {background-color: var(--primary-theme-color); height: 500px; display: flex; flex-direction: column; align-items: center; justify-content: center; position: relative; transition: 300ms ease;}
+
+.site-title {font-size: 70px; font-weight: var(--font-bold); color: var(--text-white-color);
+    .sub-title {font-size: 24px; font-weight: var(--font-regular);}
+}
+
+.site-description {font-size: 20px; color: var(--text-white-color); font-weight: var(--font-light); width: 98%; text-align: center; line-height: 160%; opacity: 0.7; margin-bottom: 50px;}
+
+.banner-search-holder {position: relative;
+    .main-banner-search {background-color: rgba(255,255,255,0.2); border: none; color: #fff; font-size: 22px; padding: 18px 18px 18px 68px; border-radius: 4px; font-weight: var(--font-light); width: 100%; line-height: 120%;
+        &::placeholder {color: #fff;}
+    }
+    .banner-search-icon {position: absolute; top: 19px; left: 20px; width: 26px;
+        &:focus {outline: none; }
+    }
+}
+
+#banner-small {background-color: var(--primary-theme-color); height: 300px; display: flex; flex-direction: column; align-items: center; justify-content: center; position: relative; transition: 300ms ease;
+    .top-nav {position: absolute; top: 30px;
+        .site-title {font-size: 40px; text-decoration: none; transition: 300ms ease;
+            &:hover {color: var(--text-white-color);}
+            span {font-size: 18px;}
+        }
+    }
+}
+.site-description-inner {font-size: 30px; color: var(--text-white-color);}

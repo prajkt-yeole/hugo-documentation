@@ -1,0 +1,36 @@
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) {
+    .banner-search-holder {position: relative;
+        .main-banner-search {width: 400px;}
+    }
+ }
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) {
+    .site-description {width: 60%;}
+    .banner-search-holder {position: relative;
+        .main-banner-search {width: 600px;}
+    }
+ }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) { 
+    #faqs-home {
+        .custom-accordion {width: 900px;}
+    }
+    .banner-search-holder {position: relative;
+        .main-banner-search {width: 800px;}
+    }
+    .site-description {width: 40%;}
+    .rounded-primary-btn {width: 100%;}
+
+    
+}
+
+// X-Large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { 
+    .rounded-primary-btn {width: 70%;}
+}
+
+// XX-Large devices (larger desktops, 1400px and up)
+@media (min-width: 1400px) { }

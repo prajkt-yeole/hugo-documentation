@@ -1,0 +1,11 @@
+<div id="banner-big">
+    <h1 class="site-title">{{ .Site.Title }} <span class="sub-title">Docs</span></h1>
+    <p class="site-description">{{ .Site.Params.siteDescription}}</p>
+    <form action="">
+        <div class="banner-search-holder">
+            <input type="text" class="main-banner-search" placeholder="Search for answers">
+            <img src="{{ .Site.BaseURL }}/images/search-icon.svg" alt="search-icon-main-banner" class="banner-search-icon">
+        </div>
+    </form>
+    <button aria-label="Dark Mode Toggle" class="dark-mode-toggle"><i class="ph-sun"></i> <i class="ph-moon"></i></button>
+</div>

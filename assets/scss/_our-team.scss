@@ -1,0 +1,15 @@
+/*/////////////////////////////////
+//////////   OUR TEAM
+////////////////////////////////*/
+#our-team {margin: 80px 0;
+    .team-card {text-align: center; background-color: var(--cards-bg-color); box-shadow: var(--box-shadow-1); transition: 300ms ease; padding: 30px; border-radius: 6px; margin-bottom: 30px;
+        &:hover {box-shadow: var(--box-shadow-1-hover);}
+        .image-holder {
+            .team-user-dp {width: 130px; border-radius: 50%; margin-bottom: 20px;}
+        }
+        .team-user-details {
+            .team-user-text {font-size: 24px; font-weight: var(--font-bold); color: var(--heading-color);}
+            .team-user-subtext {margin-bottom: 0;}
+        }
+    }
+}
