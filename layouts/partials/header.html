@@ -11,5 +11,5 @@
     {{ $bscss := resources.Get "css/bootstrap.min.css" | toCSS}}
     {{ $allcss := slice $bscss $style | resources.Concat "/css/vendor.css" | minify | fingerprint }}
     <script src="https://unpkg.com/phosphor-icons"></script>
-    <link rel="stylesheet" href="{{ $allcss.Permalink }}" integrity="{{ $styles.Data.Integrity }}">
+    <link rel="stylesheet" href="{{ $allcss.Permalink }}" integrity="{{ $allcss.Data.Integrity }}">
 </head>
