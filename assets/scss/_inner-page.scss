@@ -23,7 +23,7 @@
         li {margin-bottom: 20px; position: relative; transition: 300ms ease; line-height: 140%;
             &:before {content: ''; display: block; height: 28px; width: 6px; background-color: #ccc; position: absolute; top: 0; left: -15px;}
             &.has-children {
-                &:after {content: '\f1ad'; font-family: 'Phosphor'; position: absolute; top: 0; right: 0; font-size: 22px; transition: 300ms ease;}
+                &:after {content: '\f626'; font-family: 'Phosphor'; position: absolute; top: 0; right: 0; font-size: 22px; transition: 300ms ease;}
                 &.active, &.active-parent {
                     &:after {transform: rotate(90deg);}
                 }
@@ -46,9 +46,9 @@
 
 .next-prev-page-holder {display: flex; justify-content: center;
     .prev-page {position: relative; display: block; margin: 20px;
-        &:before {content: '\f3ef'; font-family: 'Phosphor'; position: absolute; left: -28px; font-size: 22px; top: 1px;}
+        &:before {content: '\f625'; font-family: 'Phosphor'; position: absolute; left: -28px; font-size: 22px; top: 1px;}
     }
     .next-page {position: relative; display: block; margin: 20px;
-        &:before {content: '\f3f8'; font-family: 'Phosphor'; position: absolute; right: -28px; font-size: 22px; top: 1px;}
+        &:before {content: '\f626'; font-family: 'Phosphor'; position: absolute; right: -28px; font-size: 22px; top: 1px;}
     }
 }

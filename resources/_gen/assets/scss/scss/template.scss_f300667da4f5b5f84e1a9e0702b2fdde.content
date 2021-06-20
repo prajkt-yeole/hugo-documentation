@@ -174,7 +174,7 @@ p {
     display: block;
     transition: 300ms ease; }
     .rounded-primary-btn .reveal-icon:before {
-      content: '\f454';
+      content: '\efba';
       font-family: 'Phosphor';
       position: absolute;
       top: 2px;
@@ -428,7 +428,7 @@ p {
           box-shadow: var(--box-shadow-1-hover); }
         #faqs-home .custom-accordion-item .accordion-button:after {
           background-image: none;
-          content: '\f1ab';
+          content: '\f626';
           font-family: 'Phosphor'; }
         #faqs-home .custom-accordion-item .accordion-button:not(.collapsed) {
           color: var(--heading-color);
@@ -548,7 +548,7 @@ footer {
         top: 0;
         left: -15px; }
       .table-of-content ul li.has-children:after {
-        content: '\f1ad';
+        content: '\f626';
         font-family: 'Phosphor';
         position: absolute;
         top: 0;
@@ -586,7 +586,7 @@ footer {
     display: block;
     margin: 20px; }
     .next-prev-page-holder .prev-page:before {
-      content: '\f3ef';
+      content: '\f625';
       font-family: 'Phosphor';
       position: absolute;
       left: -28px;
@@ -597,7 +597,7 @@ footer {
     display: block;
     margin: 20px; }
     .next-prev-page-holder .next-page:before {
-      content: '\f3f8';
+      content: '\f626';
       font-family: 'Phosphor';
       position: absolute;
       right: -28px;
