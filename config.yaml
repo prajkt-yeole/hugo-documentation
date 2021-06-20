@@ -10,7 +10,7 @@ markup:
     renderer:
       unsafe: true
 params :
-  author : "Red Sparrow Themes"
+  author : "Prajkt Yeole"
   siteDescription : "HUGO based Documentation template. Write your product's documentation or create a knowledge base and deploy on your server."
   keywords: "hugo , docs"
   color_theme: ""
