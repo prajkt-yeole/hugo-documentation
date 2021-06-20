@@ -1,4 +1,4 @@
-baseURL : "https://jryeole.github.io"
+baseURL : "https://jryeole.github.io/hugo-documentation/"
 languageCode : "en-us"
 title : "Xenon"
 disableKinds:
